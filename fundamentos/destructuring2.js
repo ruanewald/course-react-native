@@ -9,6 +9,7 @@ console.log(a)
 const [n1, , n3, , n5, n6 = 0] = [10, 7, 9, 8]
 console.log(n1, n3, n5, n6)
 
+// array é conjunto de valores
 // possibilidade de utilização mas não utilizado pois é um código de difícil leitura
 // ignore o primeiro elemento, primeiro array, vá para o segundo, o primeiro elemento não interessa
 // quero o segundo elemento do segundo array, ignorou o 9 e vai pegar o 6

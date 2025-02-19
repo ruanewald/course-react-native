@@ -22,6 +22,7 @@ console.log(sobrenome, bemHumorada)
 const { endereço: {logradouro, numero, cep} } = pessoa
 console.log(logradouro, numero,cep)
 
+// quando tentar desestruturar um dado, precisa ter certeza que o dado (caminho) está setado
 const {conta: {ag, num}} = pessoa
 console.log(ag, num)
 

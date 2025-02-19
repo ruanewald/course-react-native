@@ -28,7 +28,7 @@ pessoa.falar()
 
 // ou também pode ser sem function()
 const pessoas = {
-    falantes: () => {
+    falantes: () =>     {
         console.log('Olás')
     }
 }
