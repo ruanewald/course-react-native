@@ -10,6 +10,10 @@ console.log(casa('Casa Nova!'))
 const soma = (n1, n2) => n1 + n2
 console.log(soma(9, 20))
 
+const divisao = (n1, n2) => n1 / n2
+console.log(divisao(10, 2))
+
+
 
 
 
