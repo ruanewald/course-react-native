@@ -8,3 +8,10 @@ const dobrar = (numero) => numero * 2;
 console.log(dobrar(5))
 console.log(dobrar(1000))
 
+/* 📌 Explicação do código:
+
+Criamos uma constante chamada dobrar.
+Usamos => para indicar que é uma arrow function.
+numero * 2 é automaticamente retornado (sem precisar escrever return).
+
+*/
