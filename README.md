@@ -25,7 +25,8 @@ npm install
 npm start
   
 📘 Minha inspiração
-Tudo isso é fruto do curso excepcional do professor Leonardo Moura Leitão. Curioso? Conheça o curso e veja como ele pode te ajudar a dominar React Native também!
+Tudo isso é fruto do curso excepcional do professor Leonardo Moura Leitão. Curioso? 
+[Conheça o curso](https://www.udemy.com/course/curso-react-native/) e veja como ele pode te ajudar a dominar React Native também!
 
 ✨ Seguindo em frente
 Este repositório é um reflexo do meu crescimento como desenvolvedor e está sempre evoluindo. Se quiser dar uma olhada, sugerir algo ou até contribuir, sinta-se em casa!
