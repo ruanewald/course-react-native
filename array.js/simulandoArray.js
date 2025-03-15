@@ -14,4 +14,5 @@ console.log(quaseArray.toString() , meuArray)
 
 // Mas, um ARRAY tem mais funções, coisas que podem ser feitas em cima de um array
 // Não fazendo sentido simular um array em cima de um objeto
+//
 
